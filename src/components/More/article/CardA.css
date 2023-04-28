@@ -1,0 +1,17 @@
+.card{
+    width: 18rem;
+    margin-bottom:10%;
+    background-color:#ffff;
+    /* border-radius:8%; */
+}
+.card-title{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family:' PT Sans Narrow';
+}
+.card:hover{
+    box-shadow:-16px 14px 5px 0px rgba(0,0,0,0.05);
+}
+/* button:hover{
+    box-shadow:-16px 17px 5px 0px rgba(0,0,0,0.25) ;
+} */
